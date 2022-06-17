@@ -1,0 +1,8 @@
+# Must install TA-Lib with homebrew on mac, run the code below.
+# /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+wheel
+TA-Lib
+python-binance
+Cython
+numpy
+websocket_client

@@ -1,0 +1,9 @@
+print("done printing")
+
+x=json.dumps(tickers)
+
+text=open("test.txt", "w")
+text.writelines(x)
+text.close()
+
+pprint.pprint(x)
