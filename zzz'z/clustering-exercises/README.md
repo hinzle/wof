@@ -1,2 +1,0 @@
-## Clustering Exercises
-#### codeup/innis

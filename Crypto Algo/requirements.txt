@@ -1,7 +1,0 @@
-python-binance
-TA-Lib
-numpy
-pandas
-websocket_client
-
-scipy
