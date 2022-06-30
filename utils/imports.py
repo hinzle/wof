@@ -1,8 +1,8 @@
 # env
-import sys
-local_path = '/Users/hinzlehome/codeup-data-science/spark-exercises/'
-sys.path.insert(0,local_path+'.env')
-from env import *
+# import sys
+# local_path = '/Users/hinzlehome/codeup-data-science/spark-exercises/'
+# sys.path.insert(0,local_path+'.env')
+# from env import *
 # # used for trouble shooting filepath issues
 # import os
 # print(os.getcwd())
