@@ -10,7 +10,7 @@ env.py
 *.xlsx
 
 # hidden folders
-.env/
+env/
 .ipynb_checkpoints/
 
 # folders
