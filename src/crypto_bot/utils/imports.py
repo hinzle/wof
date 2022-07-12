@@ -1,19 +1,20 @@
-# env
+# # used for trouble shooting filepath issues
 # import sys
 # local_path = '/Users/hinzlehome/codeup-data-science/spark-exercises/'
 # sys.path.insert(0,local_path+'.env')
-# from env import *
-# # used for trouble shooting filepath issues
 # import os
 # print(os.getcwd())
+
 # # used for trouble shooting large notebooks
 # jupyter nbconvert --clear-output explore.ipynb
 # jupyter nbconvert --inplace --execute explore.ipynb
 # jupyter nbconvert --to python explore.ipynb
-# # should look something like this: git commit --date='2021-01-01 12:12:00' -m "message"
+
+# # postdate commits: git commit --date='2021-01-01 12:12:00' -m "message"
 # git commit --date='year-month-day hour:minutes:seconds' -m "message"
 
 # local-host
+# from env import *
 import unicodedata, itertools, re, requests, math, random, os, datetime, json, pprint, sys
 
 # python data science library's

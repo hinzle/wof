@@ -1,3 +1,22 @@
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
+
+[project]
+name = "Binance Crypto Bot"
+version = "0.0.1"
+authors = [
+  { name="hinzle", email="bosque4d@hotmail.com" },
+]
+description = "A crypto trading algo for use on binance.us"
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/hinzle/wof"
