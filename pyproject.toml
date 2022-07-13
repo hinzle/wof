@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "Binance Crypto Bot"
+name = "quanto-crypto-learner"
 version = "0.0.1"
 authors = [
   { name="hinzle", email="bosque4d@hotmail.com" },
